@@ -19,6 +19,8 @@ No! not at all, it might overload your processor and ram which will cause your p
 As stated above the script is harmless in nature but you will need to restart yor PC in order to get a fresh start since there is no stop button in the script :p
 
 
-<a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-blue" alt="github.com/cocomo29">
+NOTE: Since I haven't purchased the dirstributor licencse, [New Microsoft Word Document] might not execute in every PC. If thats the case, you can easily convert [word.bat](https://github.com/cocomo29/word.exe/blob/main/word.bat) into an executable by following [this link](https://listoffreeware.com/6-best-free-bat-exe-converter-software-windows/)
 
+[![Generic badge](https://img.shields.io/badge/issue-1-red.svg)](https://shields.io/) 
 
+<a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-purple" alt="github.com/cocomo29">
